@@ -1,0 +1,1201 @@
+ProductID,Product_Name,Product_Category,Unit_Price,Segment
+P0001,Slim Fit Jeans,Jeans,842,B2C
+P0002,Slim Fit Jeans,Jeans,637.82,B2B
+P0003,Puffer Coat,Jackets,2962.27,B2B
+P0004,Loafers,Shoes,2881.07,B2B
+P0005,Belts,Accessories,2060.85,B2B
+P0006,Crop Top,T-Shirts,3669.56,B2C
+P0007,Boyfriend Jeans,Jeans,4007.02,B2C
+P0008,Casual Midi,Dresses,468.53,B2B
+P0009,Sunglasses,Accessories,4064.4,B2B
+P0010,Oversized T-shirt,T-Shirts,1872.05,B2C
+P0011,Crop Top,T-Shirts,4595.08,B2C
+P0012,Belts,Accessories,1069.77,B2B
+P0013,Straight Cut,Jeans,2182.01,B2B
+P0014,Crop Top,T-Shirts,4449.36,B2C
+P0015,Loafers,Shoes,2721.83,B2C
+P0016,Sneakers,Shoes,1692.38,B2B
+P0017,Crop Top,T-Shirts,1372.16,B2B
+P0018,Oversized T-shirt,T-Shirts,4575.93,B2C
+P0019,Maxi Dress,Dresses,3477.16,B2B
+P0020,Casual Midi,Dresses,2441.92,B2B
+P0021,Boyfriend Jeans,Jeans,1083.16,B2B
+P0022,Wrap Dress,Dresses,3252.49,B2B
+P0023,Wrap Dress,Dresses,714.23,B2C
+P0024,Slip-ons,Shoes,3982.53,B2B
+P0025,Puffer Coat,Jackets,2927.57,B2B
+P0026,Straight Cut,Jeans,2813.51,B2B
+P0027,Sunglasses,Accessories,2291.15,B2C
+P0028,Belts,Accessories,3479.44,B2B
+P0029,Classic Tee,T-Shirts,3945.25,B2B
+P0030,Classic Tee,T-Shirts,2765.26,B2C
+P0031,Maxi Dress,Dresses,2102.02,B2C
+P0032,Wrap Dress,Dresses,1000.76,B2C
+P0033,Boyfriend Jeans,Jeans,795.85,B2C
+P0034,Straight Cut,Jeans,4059.56,B2B
+P0035,Puffer Coat,Jackets,3872.22,B2B
+P0036,Bomber Jacket,Jackets,4798.06,B2C
+P0037,Graphic Tee,T-Shirts,948.33,B2C
+P0038,Sunglasses,Accessories,1976.75,B2C
+P0039,Crop Top,T-Shirts,3891.14,B2C
+P0040,Boots,Shoes,1412.17,B2B
+P0041,Denim Jacket,Jackets,2477.82,B2C
+P0042,Puffer Coat,Jackets,4741.41,B2C
+P0043,Bodycon,Dresses,421.92,B2B
+P0044,Graphic Tee,T-Shirts,4752.04,B2C
+P0045,Classic Tee,T-Shirts,2011.73,B2C
+P0046,Sunglasses,Accessories,1521.46,B2B
+P0047,Slim Fit Jeans,Jeans,2752.71,B2C
+P0048,Straight Cut,Jeans,4948,B2B
+P0049,Straight Cut,Jeans,4601.44,B2B
+P0050,Graphic Tee,T-Shirts,1027.56,B2B
+P0051,Slim Fit Jeans,Jeans,3864.5,B2C
+P0052,Boyfriend Jeans,Jeans,568.61,B2B
+P0053,Ripped Denim,Jeans,3567.55,B2B
+P0054,Maxi Dress,Dresses,4709,B2C
+P0055,Classic Tee,T-Shirts,4109.6,B2B
+P0056,Boyfriend Jeans,Jeans,4745.03,B2C
+P0057,Sunglasses,Accessories,3978.76,B2B
+P0058,Puffer Coat,Jackets,4843.44,B2B
+P0059,Oversized T-shirt,T-Shirts,2412.36,B2B
+P0060,Boyfriend Jeans,Jeans,1556.96,B2B
+P0061,Ripped Denim,Jeans,3658.42,B2B
+P0062,Belts,Accessories,4206.06,B2C
+P0063,Ripped Denim,Jeans,3004.58,B2C
+P0064,Graphic Tee,T-Shirts,3607.9,B2C
+P0065,Denim Jacket,Jackets,2875.46,B2C
+P0066,Boyfriend Jeans,Jeans,2471.48,B2B
+P0067,Slip-ons,Shoes,1554.9,B2C
+P0068,Casual Midi,Dresses,2266.44,B2C
+P0069,Wrap Dress,Dresses,478.59,B2C
+P0070,Watches,Accessories,645.03,B2B
+P0071,Leather Jacket,Jackets,4516.08,B2C
+P0072,Sunglasses,Accessories,3335.18,B2C
+P0073,Maxi Dress,Dresses,1801.91,B2B
+P0074,Straight Cut,Jeans,1033.58,B2B
+P0075,Casual Midi,Dresses,4595.9,B2B
+P0076,Crop Top,T-Shirts,3655.71,B2C
+P0077,Oversized T-shirt,T-Shirts,2948.26,B2C
+P0078,Oversized T-shirt,T-Shirts,2719.32,B2C
+P0079,Leather Jacket,Jackets,4063.39,B2C
+P0080,Classic Tee,T-Shirts,4984.65,B2C
+P0081,Crop Top,T-Shirts,2426.13,B2C
+P0082,Boyfriend Jeans,Jeans,1204.59,B2C
+P0083,Bodycon,Dresses,2495.96,B2C
+P0084,Bomber Jacket,Jackets,2372.3,B2C
+P0085,Loafers,Shoes,2697.1,B2C
+P0086,Slip-ons,Shoes,3810.89,B2C
+P0087,Sunglasses,Accessories,4910.28,B2C
+P0088,Ripped Denim,Jeans,4808.1,B2C
+P0089,Caps,Accessories,2469.87,B2B
+P0090,Slip-ons,Shoes,3031.06,B2C
+P0091,Slip-ons,Shoes,3959.06,B2B
+P0092,Belts,Accessories,3594.97,B2C
+P0093,Bodycon,Dresses,2317.1,B2B
+P0094,Bodycon,Dresses,3507.85,B2B
+P0095,Denim Jacket,Jackets,4213.4,B2C
+P0096,Belts,Accessories,696.49,B2B
+P0097,Belts,Accessories,563.14,B2B
+P0098,Sunglasses,Accessories,4029.87,B2C
+P0099,Caps,Accessories,1560.37,B2B
+P0100,Loafers,Shoes,4098.12,B2C
+P0101,Boots,Shoes,1273.6,B2C
+P0102,Boyfriend Jeans,Jeans,3802.27,B2C
+P0103,Boyfriend Jeans,Jeans,2850.38,B2B
+P0104,Bodycon,Dresses,1544.45,B2C
+P0105,Maxi Dress,Dresses,683.85,B2B
+P0106,Maxi Dress,Dresses,1406.32,B2C
+P0107,Boyfriend Jeans,Jeans,2298.27,B2B
+P0108,Straight Cut,Jeans,1744.73,B2C
+P0109,Straight Cut,Jeans,2526.77,B2C
+P0110,Ripped Denim,Jeans,1069.88,B2B
+P0111,Slim Fit Jeans,Jeans,4802.42,B2C
+P0112,Classic Tee,T-Shirts,644.58,B2C
+P0113,Casual Midi,Dresses,4634.13,B2B
+P0114,Puffer Coat,Jackets,3111.95,B2C
+P0115,Bodycon,Dresses,1822.9,B2C
+P0116,Belts,Accessories,4841.4,B2C
+P0117,Bomber Jacket,Jackets,1638.51,B2B
+P0118,Puffer Coat,Jackets,1849.68,B2B
+P0119,Belts,Accessories,1801.38,B2C
+P0120,Ripped Denim,Jeans,1228.78,B2B
+P0121,Puffer Coat,Jackets,4313.38,B2C
+P0122,Boots,Shoes,3396.92,B2C
+P0123,Bomber Jacket,Jackets,4129.37,B2B
+P0124,Caps,Accessories,2542.72,B2C
+P0125,Puffer Coat,Jackets,3382.08,B2C
+P0126,Boots,Shoes,721.41,B2C
+P0127,Boyfriend Jeans,Jeans,3255.23,B2B
+P0128,Bodycon,Dresses,4446.82,B2B
+P0129,Oversized T-shirt,T-Shirts,1429.94,B2C
+P0130,Boyfriend Jeans,Jeans,4132,B2B
+P0131,Sunglasses,Accessories,3243.45,B2C
+P0132,Classic Tee,T-Shirts,4720.52,B2B
+P0133,Bomber Jacket,Jackets,3550.91,B2C
+P0134,Casual Midi,Dresses,2600.33,B2C
+P0135,Wrap Dress,Dresses,548.19,B2B
+P0136,Sneakers,Shoes,1500.19,B2C
+P0137,Straight Cut,Jeans,2972.45,B2C
+P0138,Sneakers,Shoes,3590.85,B2B
+P0139,Bodycon,Dresses,1412.12,B2B
+P0140,Graphic Tee,T-Shirts,2795.79,B2C
+P0141,Belts,Accessories,4524.2,B2C
+P0142,Graphic Tee,T-Shirts,1026.58,B2B
+P0143,Bodycon,Dresses,4611.9,B2C
+P0144,Denim Jacket,Jackets,1192.16,B2C
+P0145,Slim Fit Jeans,Jeans,3218.39,B2B
+P0146,Graphic Tee,T-Shirts,2648.43,B2C
+P0147,Belts,Accessories,4203.62,B2B
+P0148,Casual Midi,Dresses,4763.45,B2C
+P0149,Belts,Accessories,515.04,B2C
+P0150,Bodycon,Dresses,1345.98,B2C
+P0151,Sunglasses,Accessories,2387.61,B2B
+P0152,Straight Cut,Jeans,1315.93,B2C
+P0153,Slip-ons,Shoes,4104.36,B2B
+P0154,Belts,Accessories,2964.44,B2B
+P0155,Watches,Accessories,3250.24,B2C
+P0156,Slip-ons,Shoes,2587.78,B2B
+P0157,Wrap Dress,Dresses,1454.69,B2C
+P0158,Ripped Denim,Jeans,2286.68,B2B
+P0159,Wrap Dress,Dresses,4507.5,B2C
+P0160,Sneakers,Shoes,3074.06,B2B
+P0161,Casual Midi,Dresses,4707.2,B2B
+P0162,Classic Tee,T-Shirts,4012.48,B2C
+P0163,Boots,Shoes,3386.91,B2B
+P0164,Sunglasses,Accessories,1622.65,B2B
+P0165,Sunglasses,Accessories,2228.45,B2C
+P0166,Classic Tee,T-Shirts,1219.2,B2B
+P0167,Bomber Jacket,Jackets,2319.84,B2B
+P0168,Oversized T-shirt,T-Shirts,3991.4,B2C
+P0169,Sunglasses,Accessories,1054.69,B2B
+P0170,Classic Tee,T-Shirts,2418.55,B2B
+P0171,Straight Cut,Jeans,1128.57,B2B
+P0172,Straight Cut,Jeans,4625.84,B2C
+P0173,Puffer Coat,Jackets,4953.02,B2B
+P0174,Boyfriend Jeans,Jeans,776.52,B2B
+P0175,Leather Jacket,Jackets,1927.12,B2C
+P0176,Casual Midi,Dresses,573.8,B2C
+P0177,Boyfriend Jeans,Jeans,4032.95,B2C
+P0178,Straight Cut,Jeans,2345.49,B2C
+P0179,Crop Top,T-Shirts,3523.43,B2B
+P0180,Bomber Jacket,Jackets,420.42,B2B
+P0181,Bodycon,Dresses,1447.28,B2B
+P0182,Bomber Jacket,Jackets,4581.26,B2C
+P0183,Slim Fit Jeans,Jeans,2409.13,B2C
+P0184,Watches,Accessories,4439.81,B2B
+P0185,Ripped Denim,Jeans,2742.38,B2B
+P0186,Belts,Accessories,2213.79,B2B
+P0187,Boyfriend Jeans,Jeans,784.1,B2B
+P0188,Belts,Accessories,1218.65,B2C
+P0189,Belts,Accessories,3663.65,B2B
+P0190,Oversized T-shirt,T-Shirts,603.51,B2B
+P0191,Puffer Coat,Jackets,3074.59,B2C
+P0192,Belts,Accessories,4977.81,B2C
+P0193,Crop Top,T-Shirts,4445.81,B2C
+P0194,Casual Midi,Dresses,4946.77,B2B
+P0195,Sunglasses,Accessories,3149,B2B
+P0196,Wrap Dress,Dresses,3527.15,B2B
+P0197,Slim Fit Jeans,Jeans,4466.49,B2C
+P0198,Denim Jacket,Jackets,538.6,B2B
+P0199,Sunglasses,Accessories,1133.73,B2B
+P0200,Boots,Shoes,3175.17,B2C
+P0201,Sneakers,Shoes,3292.01,B2B
+P0202,Bomber Jacket,Jackets,476.2,B2B
+P0203,Sunglasses,Accessories,3886.3,B2B
+P0204,Crop Top,T-Shirts,2663.97,B2C
+P0205,Slip-ons,Shoes,635.12,B2B
+P0206,Slim Fit Jeans,Jeans,3001.28,B2C
+P0207,Classic Tee,T-Shirts,3452.16,B2C
+P0208,Straight Cut,Jeans,1370.36,B2C
+P0209,Denim Jacket,Jackets,2827.68,B2B
+P0210,Watches,Accessories,3792.09,B2C
+P0211,Watches,Accessories,1657.95,B2B
+P0212,Ripped Denim,Jeans,2855.53,B2B
+P0213,Slip-ons,Shoes,620.64,B2B
+P0214,Classic Tee,T-Shirts,2660.28,B2B
+P0215,Leather Jacket,Jackets,4523.58,B2B
+P0216,Classic Tee,T-Shirts,2342.25,B2B
+P0217,Classic Tee,T-Shirts,2494.99,B2B
+P0218,Denim Jacket,Jackets,4264.16,B2B
+P0219,Wrap Dress,Dresses,2708.35,B2C
+P0220,Straight Cut,Jeans,4606.09,B2C
+P0221,Oversized T-shirt,T-Shirts,2215.4,B2B
+P0222,Belts,Accessories,3172.11,B2C
+P0223,Classic Tee,T-Shirts,3389.44,B2B
+P0224,Crop Top,T-Shirts,3332.84,B2C
+P0225,Wrap Dress,Dresses,2665.7,B2C
+P0226,Loafers,Shoes,1376.54,B2B
+P0227,Bodycon,Dresses,4882.03,B2C
+P0228,Sunglasses,Accessories,3692.25,B2C
+P0229,Caps,Accessories,2277.2,B2C
+P0230,Bodycon,Dresses,2277.41,B2B
+P0231,Watches,Accessories,755.42,B2C
+P0232,Slip-ons,Shoes,1269.51,B2B
+P0233,Sneakers,Shoes,2347.19,B2C
+P0234,Puffer Coat,Jackets,818.68,B2B
+P0235,Straight Cut,Jeans,1234.08,B2B
+P0236,Bomber Jacket,Jackets,4925.93,B2C
+P0237,Oversized T-shirt,T-Shirts,4338.06,B2C
+P0238,Classic Tee,T-Shirts,2261.49,B2B
+P0239,Slip-ons,Shoes,4874.76,B2C
+P0240,Graphic Tee,T-Shirts,1461.5,B2C
+P0241,Casual Midi,Dresses,3771.67,B2B
+P0242,Slim Fit Jeans,Jeans,2128.74,B2B
+P0243,Ripped Denim,Jeans,4260.95,B2B
+P0244,Caps,Accessories,4621.79,B2C
+P0245,Maxi Dress,Dresses,2558.43,B2B
+P0246,Classic Tee,T-Shirts,1316.64,B2C
+P0247,Maxi Dress,Dresses,3597.73,B2C
+P0248,Crop Top,T-Shirts,1897.11,B2C
+P0249,Watches,Accessories,2343.72,B2C
+P0250,Caps,Accessories,4596.03,B2B
+P0251,Slip-ons,Shoes,1039.31,B2C
+P0252,Casual Midi,Dresses,4944.25,B2C
+P0253,Classic Tee,T-Shirts,706.71,B2C
+P0254,Wrap Dress,Dresses,3762.86,B2B
+P0255,Slip-ons,Shoes,2362.03,B2C
+P0256,Classic Tee,T-Shirts,4591.26,B2B
+P0257,Bomber Jacket,Jackets,1884.25,B2B
+P0258,Straight Cut,Jeans,3431.26,B2B
+P0259,Bodycon,Dresses,3381.7,B2B
+P0260,Boots,Shoes,3965.94,B2B
+P0261,Maxi Dress,Dresses,720.35,B2C
+P0262,Boyfriend Jeans,Jeans,4767.61,B2B
+P0263,Watches,Accessories,2891.64,B2C
+P0264,Slip-ons,Shoes,2989.4,B2C
+P0265,Graphic Tee,T-Shirts,2044.17,B2B
+P0266,Graphic Tee,T-Shirts,4440.24,B2C
+P0267,Slip-ons,Shoes,2273.15,B2C
+P0268,Bomber Jacket,Jackets,2465.23,B2C
+P0269,Denim Jacket,Jackets,2656.77,B2B
+P0270,Graphic Tee,T-Shirts,883.76,B2B
+P0271,Graphic Tee,T-Shirts,2345.71,B2C
+P0272,Oversized T-shirt,T-Shirts,453.92,B2C
+P0273,Belts,Accessories,4402.4,B2C
+P0274,Oversized T-shirt,T-Shirts,1571.12,B2C
+P0275,Wrap Dress,Dresses,1867.24,B2C
+P0276,Casual Midi,Dresses,1696.72,B2B
+P0277,Boots,Shoes,4774.77,B2B
+P0278,Sunglasses,Accessories,1308.06,B2C
+P0279,Sunglasses,Accessories,3972.78,B2C
+P0280,Boots,Shoes,615.07,B2C
+P0281,Crop Top,T-Shirts,1882.14,B2B
+P0282,Puffer Coat,Jackets,3134.69,B2B
+P0283,Loafers,Shoes,4809.9,B2B
+P0284,Slip-ons,Shoes,2738.72,B2B
+P0285,Puffer Coat,Jackets,527.07,B2B
+P0286,Belts,Accessories,3784.99,B2B
+P0287,Graphic Tee,T-Shirts,738.29,B2B
+P0288,Slim Fit Jeans,Jeans,657.51,B2C
+P0289,Slip-ons,Shoes,3311.31,B2B
+P0290,Denim Jacket,Jackets,4256.43,B2C
+P0291,Slim Fit Jeans,Jeans,4941.27,B2B
+P0292,Puffer Coat,Jackets,3536.61,B2B
+P0293,Maxi Dress,Dresses,1010.24,B2B
+P0294,Denim Jacket,Jackets,1575.26,B2C
+P0295,Watches,Accessories,4962.7,B2B
+P0296,Leather Jacket,Jackets,4443.82,B2C
+P0297,Slim Fit Jeans,Jeans,1144.47,B2C
+P0298,Puffer Coat,Jackets,1470.99,B2B
+P0299,Graphic Tee,T-Shirts,639.67,B2C
+P0300,Denim Jacket,Jackets,3369.55,B2C
+P0301,Slim Fit Jeans,Jeans,977.2,B2C
+P0302,Straight Cut,Jeans,735.97,B2C
+P0303,Ripped Denim,Jeans,4695.15,B2B
+P0304,Straight Cut,Jeans,987.35,B2C
+P0305,Maxi Dress,Dresses,3345.58,B2C
+P0306,Bomber Jacket,Jackets,829.14,B2C
+P0307,Belts,Accessories,2393.14,B2B
+P0308,Maxi Dress,Dresses,2618.69,B2C
+P0309,Bodycon,Dresses,4599.41,B2B
+P0310,Caps,Accessories,2644.73,B2B
+P0311,Maxi Dress,Dresses,4183.22,B2C
+P0312,Bomber Jacket,Jackets,1278.98,B2C
+P0313,Sunglasses,Accessories,2660.45,B2B
+P0314,Watches,Accessories,3393.47,B2C
+P0315,Slip-ons,Shoes,498.95,B2C
+P0316,Boyfriend Jeans,Jeans,2375.56,B2B
+P0317,Crop Top,T-Shirts,2563.6,B2B
+P0318,Watches,Accessories,1385.86,B2C
+P0319,Belts,Accessories,1014.86,B2C
+P0320,Bodycon,Dresses,4504.03,B2C
+P0321,Belts,Accessories,973.63,B2C
+P0322,Leather Jacket,Jackets,4021,B2C
+P0323,Classic Tee,T-Shirts,2534.08,B2C
+P0324,Puffer Coat,Jackets,1838.63,B2C
+P0325,Bomber Jacket,Jackets,4417.34,B2C
+P0326,Ripped Denim,Jeans,3992.21,B2C
+P0327,Casual Midi,Dresses,4351.82,B2B
+P0328,Slip-ons,Shoes,4639.86,B2B
+P0329,Boots,Shoes,1429.93,B2C
+P0330,Graphic Tee,T-Shirts,4198.5,B2C
+P0331,Maxi Dress,Dresses,4307.08,B2B
+P0332,Belts,Accessories,1743.64,B2B
+P0333,Graphic Tee,T-Shirts,3537.97,B2B
+P0334,Watches,Accessories,4177.86,B2C
+P0335,Maxi Dress,Dresses,1193.48,B2B
+P0336,Slip-ons,Shoes,1941.39,B2C
+P0337,Denim Jacket,Jackets,2878.51,B2C
+P0338,Denim Jacket,Jackets,2509.38,B2C
+P0339,Graphic Tee,T-Shirts,3785.14,B2B
+P0340,Maxi Dress,Dresses,532.47,B2C
+P0341,Straight Cut,Jeans,1758.97,B2B
+P0342,Slip-ons,Shoes,2111.87,B2C
+P0343,Wrap Dress,Dresses,701.16,B2C
+P0344,Ripped Denim,Jeans,3332.06,B2C
+P0345,Straight Cut,Jeans,3402.47,B2B
+P0346,Classic Tee,T-Shirts,792.36,B2C
+P0347,Slip-ons,Shoes,4170.76,B2C
+P0348,Straight Cut,Jeans,4827.89,B2B
+P0349,Classic Tee,T-Shirts,1717.79,B2B
+P0350,Leather Jacket,Jackets,2685.92,B2B
+P0351,Classic Tee,T-Shirts,2386.58,B2B
+P0352,Slip-ons,Shoes,3863.51,B2B
+P0353,Graphic Tee,T-Shirts,980.17,B2C
+P0354,Straight Cut,Jeans,1279.2,B2B
+P0355,Straight Cut,Jeans,3988.99,B2C
+P0356,Bodycon,Dresses,4407.79,B2C
+P0357,Denim Jacket,Jackets,3667.54,B2B
+P0358,Puffer Coat,Jackets,2047.6,B2B
+P0359,Sunglasses,Accessories,671.5,B2B
+P0360,Crop Top,T-Shirts,1363.51,B2B
+P0361,Boyfriend Jeans,Jeans,733.15,B2B
+P0362,Classic Tee,T-Shirts,416.58,B2C
+P0363,Classic Tee,T-Shirts,3933.55,B2B
+P0364,Bodycon,Dresses,4982.68,B2B
+P0365,Classic Tee,T-Shirts,721.25,B2B
+P0366,Maxi Dress,Dresses,1144.47,B2C
+P0367,Bodycon,Dresses,2220.47,B2C
+P0368,Caps,Accessories,1171.19,B2C
+P0369,Classic Tee,T-Shirts,963.18,B2C
+P0370,Caps,Accessories,1762.56,B2C
+P0371,Bodycon,Dresses,405.37,B2B
+P0372,Ripped Denim,Jeans,4499.39,B2C
+P0373,Sunglasses,Accessories,2653.9,B2C
+P0374,Leather Jacket,Jackets,2177.2,B2B
+P0375,Classic Tee,T-Shirts,3405.13,B2B
+P0376,Straight Cut,Jeans,1307.64,B2C
+P0377,Caps,Accessories,4326.6,B2B
+P0378,Denim Jacket,Jackets,1364.9,B2B
+P0379,Puffer Coat,Jackets,1874.56,B2C
+P0380,Puffer Coat,Jackets,4343.12,B2C
+P0381,Bodycon,Dresses,1016.5,B2C
+P0382,Ripped Denim,Jeans,3589.19,B2B
+P0383,Boyfriend Jeans,Jeans,2151.92,B2B
+P0384,Maxi Dress,Dresses,3548.22,B2C
+P0385,Slip-ons,Shoes,730.48,B2B
+P0386,Wrap Dress,Dresses,444.82,B2B
+P0387,Boots,Shoes,4137.43,B2B
+P0388,Puffer Coat,Jackets,4684.98,B2B
+P0389,Casual Midi,Dresses,2716.57,B2B
+P0390,Wrap Dress,Dresses,2068.05,B2C
+P0391,Slim Fit Jeans,Jeans,4103,B2B
+P0392,Slip-ons,Shoes,2951.4,B2C
+P0393,Ripped Denim,Jeans,1433.92,B2B
+P0394,Bomber Jacket,Jackets,3268.42,B2C
+P0395,Bomber Jacket,Jackets,2123.69,B2B
+P0396,Wrap Dress,Dresses,1887.84,B2C
+P0397,Straight Cut,Jeans,4305.02,B2B
+P0398,Leather Jacket,Jackets,2490.16,B2B
+P0399,Casual Midi,Dresses,1101.5,B2B
+P0400,Denim Jacket,Jackets,1534.98,B2B
+P0401,Classic Tee,T-Shirts,2308.12,B2C
+P0402,Classic Tee,T-Shirts,4582.21,B2C
+P0403,Watches,Accessories,3799.39,B2C
+P0404,Crop Top,T-Shirts,1130.83,B2C
+P0405,Watches,Accessories,2964.88,B2B
+P0406,Maxi Dress,Dresses,3449.33,B2C
+P0407,Maxi Dress,Dresses,1761.18,B2C
+P0408,Graphic Tee,T-Shirts,1965.04,B2C
+P0409,Boots,Shoes,938.86,B2C
+P0410,Caps,Accessories,3887.15,B2B
+P0411,Ripped Denim,Jeans,4146.27,B2B
+P0412,Wrap Dress,Dresses,982.65,B2B
+P0413,Slip-ons,Shoes,3109.74,B2C
+P0414,Maxi Dress,Dresses,4427.94,B2C
+P0415,Oversized T-shirt,T-Shirts,895.34,B2B
+P0416,Puffer Coat,Jackets,3051.77,B2C
+P0417,Watches,Accessories,2105.94,B2B
+P0418,Wrap Dress,Dresses,2067.64,B2C
+P0419,Bodycon,Dresses,1462.1,B2C
+P0420,Bomber Jacket,Jackets,694.71,B2C
+P0421,Loafers,Shoes,1334.66,B2B
+P0422,Classic Tee,T-Shirts,927.04,B2B
+P0423,Boyfriend Jeans,Jeans,1307.27,B2C
+P0424,Leather Jacket,Jackets,1505,B2C
+P0425,Classic Tee,T-Shirts,1985.55,B2B
+P0426,Caps,Accessories,2862.48,B2C
+P0427,Ripped Denim,Jeans,3822.93,B2C
+P0428,Boots,Shoes,3870.85,B2C
+P0429,Boyfriend Jeans,Jeans,2737.23,B2B
+P0430,Bodycon,Dresses,3647.61,B2C
+P0431,Straight Cut,Jeans,1442.86,B2B
+P0432,Watches,Accessories,4739.66,B2C
+P0433,Sneakers,Shoes,3521.17,B2B
+P0434,Oversized T-shirt,T-Shirts,1570.06,B2B
+P0435,Boyfriend Jeans,Jeans,2496.81,B2B
+P0436,Classic Tee,T-Shirts,4471.17,B2B
+P0437,Classic Tee,T-Shirts,1892.54,B2C
+P0438,Boyfriend Jeans,Jeans,1870.68,B2B
+P0439,Wrap Dress,Dresses,3381.64,B2C
+P0440,Graphic Tee,T-Shirts,2847.02,B2B
+P0441,Bodycon,Dresses,444.11,B2C
+P0442,Slim Fit Jeans,Jeans,772.97,B2C
+P0443,Slip-ons,Shoes,1772.6,B2C
+P0444,Crop Top,T-Shirts,1622.79,B2B
+P0445,Watches,Accessories,4350.86,B2C
+P0446,Bomber Jacket,Jackets,1229.1,B2B
+P0447,Loafers,Shoes,3948.83,B2B
+P0448,Classic Tee,T-Shirts,3772.51,B2B
+P0449,Slim Fit Jeans,Jeans,2727.86,B2C
+P0450,Straight Cut,Jeans,4456.45,B2B
+P0451,Graphic Tee,T-Shirts,2793.89,B2B
+P0452,Slip-ons,Shoes,4829.85,B2B
+P0453,Sunglasses,Accessories,776.98,B2C
+P0454,Straight Cut,Jeans,781.91,B2C
+P0455,Sunglasses,Accessories,3402.85,B2B
+P0456,Classic Tee,T-Shirts,1339.18,B2C
+P0457,Graphic Tee,T-Shirts,759.78,B2C
+P0458,Watches,Accessories,3114.13,B2C
+P0459,Puffer Coat,Jackets,2155.16,B2B
+P0460,Sunglasses,Accessories,2357.7,B2C
+P0461,Leather Jacket,Jackets,3661.49,B2B
+P0462,Casual Midi,Dresses,2117.07,B2C
+P0463,Puffer Coat,Jackets,581.49,B2C
+P0464,Wrap Dress,Dresses,1460.71,B2B
+P0465,Wrap Dress,Dresses,4141.23,B2B
+P0466,Belts,Accessories,4224.31,B2C
+P0467,Wrap Dress,Dresses,3865.62,B2B
+P0468,Sneakers,Shoes,2999.49,B2B
+P0469,Graphic Tee,T-Shirts,1429.24,B2C
+P0470,Wrap Dress,Dresses,2533.37,B2B
+P0471,Oversized T-shirt,T-Shirts,3618.48,B2B
+P0472,Belts,Accessories,3017.82,B2C
+P0473,Belts,Accessories,436.31,B2C
+P0474,Graphic Tee,T-Shirts,1403.41,B2C
+P0475,Denim Jacket,Jackets,3369.03,B2B
+P0476,Oversized T-shirt,T-Shirts,804.78,B2C
+P0477,Ripped Denim,Jeans,643.24,B2C
+P0478,Bodycon,Dresses,3428.02,B2B
+P0479,Denim Jacket,Jackets,3710.07,B2B
+P0480,Maxi Dress,Dresses,3153.49,B2C
+P0481,Denim Jacket,Jackets,3227.22,B2C
+P0482,Watches,Accessories,2803.56,B2B
+P0483,Slip-ons,Shoes,2355.36,B2B
+P0484,Oversized T-shirt,T-Shirts,2755.59,B2B
+P0485,Bomber Jacket,Jackets,4000.18,B2C
+P0486,Sneakers,Shoes,2270.65,B2B
+P0487,Ripped Denim,Jeans,2390.43,B2B
+P0488,Sunglasses,Accessories,2315.78,B2C
+P0489,Caps,Accessories,2787.46,B2B
+P0490,Sneakers,Shoes,494.81,B2B
+P0491,Classic Tee,T-Shirts,3068.38,B2C
+P0492,Sneakers,Shoes,3805.09,B2C
+P0493,Classic Tee,T-Shirts,1369.81,B2B
+P0494,Wrap Dress,Dresses,2204.39,B2B
+P0495,Straight Cut,Jeans,1935.29,B2B
+P0496,Watches,Accessories,2153.57,B2C
+P0497,Denim Jacket,Jackets,4746.52,B2C
+P0498,Belts,Accessories,3286.66,B2C
+P0499,Straight Cut,Jeans,3853.49,B2C
+P0500,Crop Top,T-Shirts,4363.08,B2B
+P0501,Straight Cut,Jeans,4126.29,B2C
+P0502,Crop Top,T-Shirts,4375.7,B2B
+P0503,Bodycon,Dresses,1426.73,B2B
+P0504,Oversized T-shirt,T-Shirts,3701.72,B2B
+P0505,Loafers,Shoes,2348.26,B2C
+P0506,Watches,Accessories,1668.18,B2B
+P0507,Crop Top,T-Shirts,1203.45,B2B
+P0508,Puffer Coat,Jackets,2808.46,B2B
+P0509,Bodycon,Dresses,1010.48,B2C
+P0510,Bodycon,Dresses,2567.59,B2C
+P0511,Graphic Tee,T-Shirts,1966.21,B2B
+P0512,Puffer Coat,Jackets,1335.29,B2B
+P0513,Sunglasses,Accessories,2910.84,B2C
+P0514,Leather Jacket,Jackets,1283.62,B2C
+P0515,Oversized T-shirt,T-Shirts,3413.11,B2C
+P0516,Sunglasses,Accessories,1284.36,B2C
+P0517,Casual Midi,Dresses,3385.59,B2C
+P0518,Slim Fit Jeans,Jeans,3630.24,B2C
+P0519,Slim Fit Jeans,Jeans,3989.68,B2B
+P0520,Belts,Accessories,2674.79,B2C
+P0521,Crop Top,T-Shirts,1435.85,B2B
+P0522,Straight Cut,Jeans,3549.93,B2B
+P0523,Sunglasses,Accessories,1797.91,B2C
+P0524,Oversized T-shirt,T-Shirts,3954.73,B2C
+P0525,Wrap Dress,Dresses,4178.18,B2C
+P0526,Watches,Accessories,3094.77,B2C
+P0527,Sneakers,Shoes,618.18,B2C
+P0528,Slim Fit Jeans,Jeans,4220.2,B2C
+P0529,Crop Top,T-Shirts,2734.95,B2B
+P0530,Classic Tee,T-Shirts,1354.69,B2C
+P0531,Denim Jacket,Jackets,4910.91,B2B
+P0532,Ripped Denim,Jeans,3080.12,B2C
+P0533,Oversized T-shirt,T-Shirts,2516.6,B2B
+P0534,Bodycon,Dresses,1120.52,B2C
+P0535,Graphic Tee,T-Shirts,1802.43,B2B
+P0536,Caps,Accessories,854.8,B2C
+P0537,Bodycon,Dresses,2912.48,B2C
+P0538,Ripped Denim,Jeans,473.68,B2B
+P0539,Bodycon,Dresses,1469.13,B2B
+P0540,Straight Cut,Jeans,2462.92,B2B
+P0541,Puffer Coat,Jackets,4234.28,B2B
+P0542,Caps,Accessories,1234.27,B2B
+P0543,Bomber Jacket,Jackets,4971.74,B2C
+P0544,Bodycon,Dresses,1254.77,B2B
+P0545,Maxi Dress,Dresses,677.9,B2C
+P0546,Casual Midi,Dresses,1193.03,B2C
+P0547,Oversized T-shirt,T-Shirts,3725.58,B2C
+P0548,Maxi Dress,Dresses,2077.82,B2B
+P0549,Bomber Jacket,Jackets,2975.64,B2B
+P0550,Sunglasses,Accessories,702.86,B2B
+P0551,Leather Jacket,Jackets,3590.4,B2B
+P0552,Leather Jacket,Jackets,2975.33,B2B
+P0553,Slip-ons,Shoes,3266.05,B2C
+P0554,Belts,Accessories,1596.02,B2B
+P0555,Loafers,Shoes,1151.07,B2C
+P0556,Belts,Accessories,1760.85,B2B
+P0557,Boyfriend Jeans,Jeans,2778.14,B2B
+P0558,Puffer Coat,Jackets,4672.35,B2B
+P0559,Graphic Tee,T-Shirts,2809.88,B2B
+P0560,Leather Jacket,Jackets,2105.74,B2C
+P0561,Caps,Accessories,4068.82,B2C
+P0562,Sneakers,Shoes,2610.84,B2B
+P0563,Caps,Accessories,1571.58,B2C
+P0564,Maxi Dress,Dresses,940.71,B2C
+P0565,Boyfriend Jeans,Jeans,1323.61,B2B
+P0566,Caps,Accessories,4459.2,B2C
+P0567,Puffer Coat,Jackets,3163.95,B2C
+P0568,Belts,Accessories,3809.95,B2B
+P0569,Ripped Denim,Jeans,3906.15,B2C
+P0570,Maxi Dress,Dresses,431.18,B2B
+P0571,Leather Jacket,Jackets,1806.81,B2B
+P0572,Denim Jacket,Jackets,1528.94,B2C
+P0573,Leather Jacket,Jackets,1020.85,B2B
+P0574,Ripped Denim,Jeans,2581.29,B2B
+P0575,Belts,Accessories,2211.06,B2B
+P0576,Graphic Tee,T-Shirts,3643.63,B2B
+P0577,Denim Jacket,Jackets,4312.21,B2B
+P0578,Casual Midi,Dresses,2686.05,B2C
+P0579,Maxi Dress,Dresses,2538.3,B2B
+P0580,Boots,Shoes,1901.86,B2C
+P0581,Wrap Dress,Dresses,1934.02,B2C
+P0582,Straight Cut,Jeans,3248.14,B2B
+P0583,Slim Fit Jeans,Jeans,4767.37,B2C
+P0584,Casual Midi,Dresses,3952.46,B2C
+P0585,Bodycon,Dresses,537.77,B2C
+P0586,Sneakers,Shoes,3321.05,B2B
+P0587,Loafers,Shoes,1209.8,B2C
+P0588,Loafers,Shoes,3881.17,B2C
+P0589,Sunglasses,Accessories,820.88,B2B
+P0590,Loafers,Shoes,1685.85,B2B
+P0591,Maxi Dress,Dresses,857.22,B2C
+P0592,Graphic Tee,T-Shirts,2426.77,B2B
+P0593,Sneakers,Shoes,4142.54,B2C
+P0594,Graphic Tee,T-Shirts,2191.65,B2B
+P0595,Straight Cut,Jeans,1762.28,B2C
+P0596,Bodycon,Dresses,662.52,B2B
+P0597,Puffer Coat,Jackets,906.82,B2B
+P0598,Crop Top,T-Shirts,3981.39,B2B
+P0599,Denim Jacket,Jackets,2865.62,B2C
+P0600,Bomber Jacket,Jackets,927.64,B2B
+P0601,Watches,Accessories,3131.57,B2B
+P0602,Belts,Accessories,2830.24,B2B
+P0603,Wrap Dress,Dresses,3270.68,B2B
+P0604,Bomber Jacket,Jackets,2119.66,B2B
+P0605,Graphic Tee,T-Shirts,4376.41,B2C
+P0606,Watches,Accessories,1498.8,B2C
+P0607,Graphic Tee,T-Shirts,4446.09,B2C
+P0608,Loafers,Shoes,826.11,B2C
+P0609,Slip-ons,Shoes,630.28,B2B
+P0610,Loafers,Shoes,2679.07,B2B
+P0611,Straight Cut,Jeans,810.62,B2B
+P0612,Graphic Tee,T-Shirts,4954.67,B2C
+P0613,Puffer Coat,Jackets,466.37,B2C
+P0614,Watches,Accessories,1332.39,B2B
+P0615,Sunglasses,Accessories,1001.57,B2C
+P0616,Casual Midi,Dresses,2036.71,B2B
+P0617,Loafers,Shoes,2709.1,B2C
+P0618,Boyfriend Jeans,Jeans,3027.66,B2B
+P0619,Wrap Dress,Dresses,968.53,B2B
+P0620,Straight Cut,Jeans,3887.5,B2B
+P0621,Maxi Dress,Dresses,2267.72,B2B
+P0622,Classic Tee,T-Shirts,4218.96,B2B
+P0623,Slip-ons,Shoes,2712.09,B2B
+P0624,Classic Tee,T-Shirts,3862.58,B2C
+P0625,Slim Fit Jeans,Jeans,3491.26,B2C
+P0626,Watches,Accessories,3655.37,B2B
+P0627,Maxi Dress,Dresses,1346.11,B2B
+P0628,Ripped Denim,Jeans,1611.02,B2C
+P0629,Bodycon,Dresses,2349.3,B2B
+P0630,Boots,Shoes,2146.07,B2C
+P0631,Ripped Denim,Jeans,4368.12,B2C
+P0632,Casual Midi,Dresses,2543.93,B2C
+P0633,Bomber Jacket,Jackets,4854.03,B2C
+P0634,Bomber Jacket,Jackets,442.41,B2B
+P0635,Puffer Coat,Jackets,1540.5,B2B
+P0636,Caps,Accessories,2403.95,B2B
+P0637,Denim Jacket,Jackets,2170.71,B2B
+P0638,Slip-ons,Shoes,1762.23,B2B
+P0639,Boyfriend Jeans,Jeans,2161.8,B2B
+P0640,Boyfriend Jeans,Jeans,3445.9,B2B
+P0641,Belts,Accessories,4484.13,B2B
+P0642,Caps,Accessories,4524.64,B2B
+P0643,Denim Jacket,Jackets,4604.85,B2B
+P0644,Boots,Shoes,2420.16,B2B
+P0645,Wrap Dress,Dresses,2496.17,B2C
+P0646,Classic Tee,T-Shirts,4808.35,B2B
+P0647,Ripped Denim,Jeans,3427.66,B2C
+P0648,Boots,Shoes,4205.29,B2C
+P0649,Bomber Jacket,Jackets,1600.21,B2B
+P0650,Boots,Shoes,4450.17,B2B
+P0651,Wrap Dress,Dresses,2209.49,B2C
+P0652,Sneakers,Shoes,1438.68,B2B
+P0653,Maxi Dress,Dresses,2755.37,B2C
+P0654,Denim Jacket,Jackets,4998.91,B2B
+P0655,Caps,Accessories,4478.08,B2B
+P0656,Boyfriend Jeans,Jeans,535.27,B2B
+P0657,Slip-ons,Shoes,2854.4,B2B
+P0658,Ripped Denim,Jeans,633.23,B2C
+P0659,Puffer Coat,Jackets,2957.48,B2C
+P0660,Sneakers,Shoes,4252.05,B2B
+P0661,Slim Fit Jeans,Jeans,3541.13,B2C
+P0662,Boots,Shoes,4437.44,B2C
+P0663,Belts,Accessories,4300.05,B2C
+P0664,Loafers,Shoes,2710.56,B2C
+P0665,Boots,Shoes,2540.1,B2C
+P0666,Crop Top,T-Shirts,3064.21,B2C
+P0667,Straight Cut,Jeans,4456.65,B2C
+P0668,Sneakers,Shoes,3899.04,B2C
+P0669,Boyfriend Jeans,Jeans,3294.21,B2C
+P0670,Boots,Shoes,491.36,B2B
+P0671,Classic Tee,T-Shirts,3736.2,B2C
+P0672,Slim Fit Jeans,Jeans,2287.67,B2B
+P0673,Belts,Accessories,3407.2,B2C
+P0674,Watches,Accessories,1405.39,B2B
+P0675,Straight Cut,Jeans,3217.82,B2C
+P0676,Casual Midi,Dresses,3974.58,B2C
+P0677,Maxi Dress,Dresses,3241.57,B2C
+P0678,Bomber Jacket,Jackets,3189.35,B2B
+P0679,Watches,Accessories,3335.27,B2B
+P0680,Classic Tee,T-Shirts,2201.87,B2C
+P0681,Straight Cut,Jeans,3476.06,B2C
+P0682,Maxi Dress,Dresses,3978.48,B2C
+P0683,Sunglasses,Accessories,4426.82,B2B
+P0684,Ripped Denim,Jeans,3062.79,B2C
+P0685,Maxi Dress,Dresses,2688.08,B2C
+P0686,Bodycon,Dresses,2440.38,B2B
+P0687,Boyfriend Jeans,Jeans,1529.48,B2C
+P0688,Denim Jacket,Jackets,1005.41,B2B
+P0689,Watches,Accessories,881.41,B2B
+P0690,Oversized T-shirt,T-Shirts,1718.14,B2C
+P0691,Puffer Coat,Jackets,1580.59,B2B
+P0692,Boots,Shoes,2967.49,B2B
+P0693,Oversized T-shirt,T-Shirts,4066.97,B2C
+P0694,Leather Jacket,Jackets,2295.49,B2C
+P0695,Boyfriend Jeans,Jeans,3508.21,B2B
+P0696,Leather Jacket,Jackets,1295.44,B2B
+P0697,Sneakers,Shoes,1378.76,B2C
+P0698,Belts,Accessories,1289.24,B2C
+P0699,Loafers,Shoes,1042.41,B2C
+P0700,Sneakers,Shoes,1095.03,B2C
+P0701,Oversized T-shirt,T-Shirts,4922.99,B2C
+P0702,Wrap Dress,Dresses,1207.99,B2C
+P0703,Sneakers,Shoes,3148.46,B2C
+P0704,Slim Fit Jeans,Jeans,1875.17,B2C
+P0705,Classic Tee,T-Shirts,3412.15,B2C
+P0706,Sneakers,Shoes,509.54,B2B
+P0707,Denim Jacket,Jackets,3099.15,B2B
+P0708,Puffer Coat,Jackets,899.41,B2B
+P0709,Sunglasses,Accessories,2550.98,B2B
+P0710,Denim Jacket,Jackets,3640.29,B2B
+P0711,Watches,Accessories,857.68,B2B
+P0712,Watches,Accessories,429.37,B2B
+P0713,Belts,Accessories,500.41,B2B
+P0714,Graphic Tee,T-Shirts,2971.36,B2B
+P0715,Graphic Tee,T-Shirts,935.57,B2C
+P0716,Watches,Accessories,4467.25,B2C
+P0717,Casual Midi,Dresses,2490.44,B2C
+P0718,Crop Top,T-Shirts,4867.51,B2B
+P0719,Denim Jacket,Jackets,2765.79,B2C
+P0720,Boyfriend Jeans,Jeans,4458.48,B2C
+P0721,Leather Jacket,Jackets,1985.49,B2C
+P0722,Wrap Dress,Dresses,2188.74,B2B
+P0723,Bomber Jacket,Jackets,3820.42,B2B
+P0724,Bodycon,Dresses,3440.31,B2C
+P0725,Ripped Denim,Jeans,1625.58,B2B
+P0726,Maxi Dress,Dresses,2253.08,B2B
+P0727,Bodycon,Dresses,3246.04,B2B
+P0728,Watches,Accessories,3605.36,B2C
+P0729,Loafers,Shoes,4473.94,B2B
+P0730,Boyfriend Jeans,Jeans,4550.95,B2C
+P0731,Wrap Dress,Dresses,753.85,B2C
+P0732,Leather Jacket,Jackets,3384.51,B2C
+P0733,Wrap Dress,Dresses,1823.51,B2B
+P0734,Bomber Jacket,Jackets,2942.95,B2C
+P0735,Leather Jacket,Jackets,3643.5,B2C
+P0736,Puffer Coat,Jackets,4756.67,B2B
+P0737,Puffer Coat,Jackets,2159.68,B2B
+P0738,Casual Midi,Dresses,744.83,B2C
+P0739,Classic Tee,T-Shirts,1943.21,B2B
+P0740,Denim Jacket,Jackets,4847.73,B2B
+P0741,Slim Fit Jeans,Jeans,2169.73,B2B
+P0742,Graphic Tee,T-Shirts,1430.06,B2C
+P0743,Ripped Denim,Jeans,4140.86,B2C
+P0744,Crop Top,T-Shirts,3127.73,B2C
+P0745,Boots,Shoes,3395.67,B2B
+P0746,Graphic Tee,T-Shirts,4268.68,B2C
+P0747,Slim Fit Jeans,Jeans,3435.95,B2B
+P0748,Oversized T-shirt,T-Shirts,1832.16,B2B
+P0749,Wrap Dress,Dresses,3714.46,B2B
+P0750,Loafers,Shoes,4411.39,B2C
+P0751,Maxi Dress,Dresses,2476.15,B2B
+P0752,Puffer Coat,Jackets,2632.44,B2B
+P0753,Slim Fit Jeans,Jeans,1510.89,B2C
+P0754,Puffer Coat,Jackets,4193.1,B2C
+P0755,Caps,Accessories,3149.37,B2C
+P0756,Sneakers,Shoes,714.5,B2C
+P0757,Loafers,Shoes,2489.18,B2B
+P0758,Slim Fit Jeans,Jeans,1906.91,B2B
+P0759,Sneakers,Shoes,3846.31,B2C
+P0760,Crop Top,T-Shirts,4981.86,B2B
+P0761,Watches,Accessories,3470.88,B2C
+P0762,Leather Jacket,Jackets,2282.02,B2C
+P0763,Puffer Coat,Jackets,1773.3,B2C
+P0764,Slip-ons,Shoes,2344.38,B2B
+P0765,Bomber Jacket,Jackets,3333.87,B2B
+P0766,Straight Cut,Jeans,889.88,B2C
+P0767,Denim Jacket,Jackets,3157.28,B2B
+P0768,Maxi Dress,Dresses,4225.58,B2B
+P0769,Slip-ons,Shoes,2123.22,B2B
+P0770,Leather Jacket,Jackets,405.52,B2B
+P0771,Maxi Dress,Dresses,493.99,B2B
+P0772,Slip-ons,Shoes,2335.61,B2C
+P0773,Boyfriend Jeans,Jeans,4132.13,B2B
+P0774,Watches,Accessories,4457.83,B2C
+P0775,Sunglasses,Accessories,4357.94,B2C
+P0776,Graphic Tee,T-Shirts,408.21,B2B
+P0777,Boots,Shoes,642.48,B2C
+P0778,Wrap Dress,Dresses,2967.26,B2B
+P0779,Crop Top,T-Shirts,3725.14,B2C
+P0780,Boyfriend Jeans,Jeans,1904.58,B2B
+P0781,Leather Jacket,Jackets,4439.39,B2C
+P0782,Casual Midi,Dresses,2103.54,B2B
+P0783,Denim Jacket,Jackets,718.84,B2B
+P0784,Denim Jacket,Jackets,688.38,B2C
+P0785,Crop Top,T-Shirts,1106.09,B2C
+P0786,Oversized T-shirt,T-Shirts,3607.5,B2C
+P0787,Sneakers,Shoes,2043.67,B2B
+P0788,Caps,Accessories,4638.76,B2B
+P0789,Slim Fit Jeans,Jeans,1259.22,B2C
+P0790,Bomber Jacket,Jackets,1258.77,B2B
+P0791,Bomber Jacket,Jackets,4245.43,B2C
+P0792,Casual Midi,Dresses,2822.43,B2B
+P0793,Boyfriend Jeans,Jeans,3625.99,B2B
+P0794,Maxi Dress,Dresses,1927.87,B2C
+P0795,Denim Jacket,Jackets,773.28,B2C
+P0796,Caps,Accessories,3873.82,B2C
+P0797,Maxi Dress,Dresses,2581.19,B2B
+P0798,Casual Midi,Dresses,2847.02,B2C
+P0799,Boots,Shoes,2840.78,B2B
+P0800,Boots,Shoes,3539.22,B2B
+P0801,Puffer Coat,Jackets,3046.11,B2C
+P0802,Sneakers,Shoes,4057.33,B2B
+P0803,Slip-ons,Shoes,419.25,B2B
+P0804,Sunglasses,Accessories,816.33,B2C
+P0805,Maxi Dress,Dresses,1863.19,B2C
+P0806,Sunglasses,Accessories,3960.8,B2B
+P0807,Maxi Dress,Dresses,687.34,B2C
+P0808,Boyfriend Jeans,Jeans,3449.08,B2B
+P0809,Oversized T-shirt,T-Shirts,799.82,B2C
+P0810,Wrap Dress,Dresses,3501.9,B2C
+P0811,Sunglasses,Accessories,3205.96,B2C
+P0812,Boots,Shoes,2109.08,B2B
+P0813,Denim Jacket,Jackets,3574.54,B2B
+P0814,Leather Jacket,Jackets,4896.32,B2C
+P0815,Oversized T-shirt,T-Shirts,4994.07,B2C
+P0816,Casual Midi,Dresses,2319.23,B2C
+P0817,Graphic Tee,T-Shirts,1463.64,B2C
+P0818,Slip-ons,Shoes,4776.97,B2B
+P0819,Belts,Accessories,3617.02,B2C
+P0820,Watches,Accessories,3347.39,B2B
+P0821,Graphic Tee,T-Shirts,2433.47,B2C
+P0822,Leather Jacket,Jackets,3633.07,B2C
+P0823,Bomber Jacket,Jackets,2068.88,B2C
+P0824,Oversized T-shirt,T-Shirts,4626.44,B2B
+P0825,Watches,Accessories,1175.25,B2B
+P0826,Bomber Jacket,Jackets,4699.66,B2C
+P0827,Crop Top,T-Shirts,756.73,B2C
+P0828,Straight Cut,Jeans,4482.08,B2B
+P0829,Maxi Dress,Dresses,2355.28,B2B
+P0830,Sneakers,Shoes,1263.84,B2B
+P0831,Casual Midi,Dresses,3061.98,B2B
+P0832,Loafers,Shoes,2714.78,B2B
+P0833,Loafers,Shoes,609.06,B2B
+P0834,Wrap Dress,Dresses,2293.29,B2C
+P0835,Denim Jacket,Jackets,3895.43,B2C
+P0836,Ripped Denim,Jeans,4154.55,B2C
+P0837,Straight Cut,Jeans,1276.26,B2B
+P0838,Leather Jacket,Jackets,789.21,B2C
+P0839,Bodycon,Dresses,3463.37,B2C
+P0840,Classic Tee,T-Shirts,3256.31,B2C
+P0841,Watches,Accessories,4784.03,B2C
+P0842,Puffer Coat,Jackets,4965.93,B2C
+P0843,Leather Jacket,Jackets,736.36,B2C
+P0844,Casual Midi,Dresses,2469.67,B2B
+P0845,Sunglasses,Accessories,2538.57,B2C
+P0846,Crop Top,T-Shirts,4412.21,B2C
+P0847,Sunglasses,Accessories,4832.16,B2C
+P0848,Bodycon,Dresses,4403.84,B2C
+P0849,Graphic Tee,T-Shirts,2171.22,B2B
+P0850,Oversized T-shirt,T-Shirts,1636.26,B2B
+P0851,Belts,Accessories,806.81,B2B
+P0852,Slim Fit Jeans,Jeans,2289.93,B2C
+P0853,Graphic Tee,T-Shirts,3352.88,B2C
+P0854,Watches,Accessories,1606.99,B2B
+P0855,Boyfriend Jeans,Jeans,2672.64,B2C
+P0856,Crop Top,T-Shirts,2438.16,B2B
+P0857,Wrap Dress,Dresses,4530.28,B2C
+P0858,Watches,Accessories,3415.9,B2B
+P0859,Ripped Denim,Jeans,2705.13,B2C
+P0860,Sunglasses,Accessories,4932.25,B2C
+P0861,Maxi Dress,Dresses,856.83,B2B
+P0862,Bomber Jacket,Jackets,1753.02,B2C
+P0863,Casual Midi,Dresses,4127.32,B2C
+P0864,Sneakers,Shoes,1006.98,B2C
+P0865,Caps,Accessories,2012.14,B2C
+P0866,Leather Jacket,Jackets,4947.96,B2C
+P0867,Graphic Tee,T-Shirts,4720.23,B2B
+P0868,Bodycon,Dresses,1043.58,B2C
+P0869,Boots,Shoes,4899.84,B2C
+P0870,Denim Jacket,Jackets,3838.55,B2C
+P0871,Sneakers,Shoes,1640.04,B2B
+P0872,Wrap Dress,Dresses,3863.95,B2C
+P0873,Graphic Tee,T-Shirts,3726.31,B2B
+P0874,Bomber Jacket,Jackets,1059.09,B2C
+P0875,Slip-ons,Shoes,2718.51,B2C
+P0876,Watches,Accessories,2212.25,B2B
+P0877,Loafers,Shoes,4710.77,B2C
+P0878,Crop Top,T-Shirts,2377.81,B2C
+P0879,Maxi Dress,Dresses,1261.59,B2C
+P0880,Belts,Accessories,1727.66,B2C
+P0881,Watches,Accessories,2514.7,B2C
+P0882,Slip-ons,Shoes,4770.92,B2C
+P0883,Denim Jacket,Jackets,4784.55,B2C
+P0884,Straight Cut,Jeans,3163.97,B2B
+P0885,Slip-ons,Shoes,794.81,B2C
+P0886,Classic Tee,T-Shirts,1804.59,B2B
+P0887,Sunglasses,Accessories,4777.51,B2B
+P0888,Classic Tee,T-Shirts,2862.03,B2B
+P0889,Sneakers,Shoes,4366.4,B2B
+P0890,Maxi Dress,Dresses,1617.83,B2C
+P0891,Belts,Accessories,4834.87,B2C
+P0892,Crop Top,T-Shirts,2579.8,B2C
+P0893,Slim Fit Jeans,Jeans,3300.82,B2C
+P0894,Watches,Accessories,1810.81,B2B
+P0895,Leather Jacket,Jackets,2085.92,B2B
+P0896,Ripped Denim,Jeans,4870.82,B2B
+P0897,Oversized T-shirt,T-Shirts,4882.69,B2B
+P0898,Straight Cut,Jeans,2565.55,B2C
+P0899,Classic Tee,T-Shirts,1559.67,B2C
+P0900,Sneakers,Shoes,1171.79,B2B
+P0901,Oversized T-shirt,T-Shirts,909.31,B2C
+P0902,Belts,Accessories,1602.49,B2C
+P0903,Caps,Accessories,3476.53,B2C
+P0904,Maxi Dress,Dresses,1109.6,B2B
+P0905,Ripped Denim,Jeans,716.3,B2C
+P0906,Bodycon,Dresses,1935.05,B2C
+P0907,Bodycon,Dresses,1635.12,B2B
+P0908,Puffer Coat,Jackets,3261.51,B2B
+P0909,Boyfriend Jeans,Jeans,541.71,B2B
+P0910,Sunglasses,Accessories,1927.98,B2C
+P0911,Oversized T-shirt,T-Shirts,4316.85,B2C
+P0912,Ripped Denim,Jeans,4146.91,B2C
+P0913,Belts,Accessories,869.82,B2B
+P0914,Watches,Accessories,668.51,B2C
+P0915,Boyfriend Jeans,Jeans,1369.29,B2B
+P0916,Sunglasses,Accessories,3977.88,B2B
+P0917,Maxi Dress,Dresses,1360.22,B2B
+P0918,Slip-ons,Shoes,4552.8,B2B
+P0919,Bodycon,Dresses,4351.11,B2B
+P0920,Maxi Dress,Dresses,4923.95,B2C
+P0921,Denim Jacket,Jackets,2965.32,B2B
+P0922,Watches,Accessories,3586.76,B2C
+P0923,Wrap Dress,Dresses,1278.85,B2C
+P0924,Puffer Coat,Jackets,3360.01,B2B
+P0925,Boyfriend Jeans,Jeans,4149.42,B2C
+P0926,Caps,Accessories,1439.18,B2B
+P0927,Slip-ons,Shoes,3956.83,B2B
+P0928,Classic Tee,T-Shirts,891.42,B2B
+P0929,Casual Midi,Dresses,578.58,B2B
+P0930,Watches,Accessories,2534.9,B2B
+P0931,Boyfriend Jeans,Jeans,449.09,B2C
+P0932,Boyfriend Jeans,Jeans,3267.28,B2C
+P0933,Crop Top,T-Shirts,3735.56,B2B
+P0934,Leather Jacket,Jackets,2675.27,B2C
+P0935,Straight Cut,Jeans,1039.15,B2C
+P0936,Puffer Coat,Jackets,4836.47,B2B
+P0937,Ripped Denim,Jeans,1257.81,B2B
+P0938,Watches,Accessories,3410.38,B2B
+P0939,Puffer Coat,Jackets,1870.82,B2B
+P0940,Leather Jacket,Jackets,4418.75,B2B
+P0941,Bodycon,Dresses,4784,B2B
+P0942,Loafers,Shoes,4930.08,B2C
+P0943,Puffer Coat,Jackets,3064.28,B2B
+P0944,Sneakers,Shoes,4234.77,B2C
+P0945,Boyfriend Jeans,Jeans,2038.37,B2C
+P0946,Ripped Denim,Jeans,4426.15,B2B
+P0947,Ripped Denim,Jeans,1888.27,B2B
+P0948,Straight Cut,Jeans,2422.01,B2C
+P0949,Slim Fit Jeans,Jeans,3817.72,B2B
+P0950,Slip-ons,Shoes,739.57,B2C
+P0951,Maxi Dress,Dresses,2454.71,B2B
+P0952,Loafers,Shoes,3864.37,B2B
+P0953,Ripped Denim,Jeans,3996.87,B2B
+P0954,Bomber Jacket,Jackets,2963.02,B2C
+P0955,Ripped Denim,Jeans,4817.45,B2B
+P0956,Sneakers,Shoes,3588.42,B2C
+P0957,Puffer Coat,Jackets,4273.33,B2B
+P0958,Watches,Accessories,3522.98,B2C
+P0959,Crop Top,T-Shirts,4609.95,B2C
+P0960,Denim Jacket,Jackets,4443.01,B2B
+P0961,Slip-ons,Shoes,561.24,B2C
+P0962,Denim Jacket,Jackets,2297.54,B2B
+P0963,Sneakers,Shoes,4154.05,B2B
+P0964,Boots,Shoes,1812.58,B2B
+P0965,Oversized T-shirt,T-Shirts,1110.11,B2C
+P0966,Bodycon,Dresses,2549.59,B2C
+P0967,Loafers,Shoes,2525.04,B2B
+P0968,Graphic Tee,T-Shirts,3424.29,B2C
+P0969,Puffer Coat,Jackets,2687.96,B2B
+P0970,Slim Fit Jeans,Jeans,1525.28,B2C
+P0971,Denim Jacket,Jackets,1816.76,B2B
+P0972,Sunglasses,Accessories,1212.44,B2B
+P0973,Bomber Jacket,Jackets,3303.02,B2B
+P0974,Caps,Accessories,1831.4,B2C
+P0975,Ripped Denim,Jeans,3270.29,B2C
+P0976,Classic Tee,T-Shirts,4428.24,B2B
+P0977,Ripped Denim,Jeans,1459.76,B2C
+P0978,Oversized T-shirt,T-Shirts,2535.29,B2C
+P0979,Classic Tee,T-Shirts,2043.3,B2C
+P0980,Bodycon,Dresses,1392.21,B2B
+P0981,Caps,Accessories,4238.91,B2B
+P0982,Maxi Dress,Dresses,839.34,B2B
+P0983,Wrap Dress,Dresses,1354.14,B2B
+P0984,Bomber Jacket,Jackets,3754.23,B2C
+P0985,Maxi Dress,Dresses,3824.82,B2B
+P0986,Boots,Shoes,583.53,B2B
+P0987,Casual Midi,Dresses,2320.76,B2B
+P0988,Belts,Accessories,2666.48,B2B
+P0989,Boots,Shoes,3229.15,B2C
+P0990,Crop Top,T-Shirts,3331.72,B2B
+P0991,Boyfriend Jeans,Jeans,2357.36,B2B
+P0992,Leather Jacket,Jackets,3593.06,B2B
+P0993,Classic Tee,T-Shirts,1194.44,B2B
+P0994,Boots,Shoes,3086.59,B2C
+P0995,Ripped Denim,Jeans,1817.71,B2B
+P0996,Leather Jacket,Jackets,3153.37,B2C
+P0997,Watches,Accessories,1202.73,B2B
+P0998,Puffer Coat,Jackets,1478.93,B2B
+P0999,Classic Tee,T-Shirts,2928.84,B2C
+P1000,Slip-ons,Shoes,1027.54,B2B
+P1001,Leather Jacket,Jackets,3022.15,B2C
+P1002,Wrap Dress,Dresses,2483.49,B2C
+P1003,Crop Top,T-Shirts,2092.33,B2B
+P1004,Denim Jacket,Jackets,535.62,B2C
+P1005,Bomber Jacket,Jackets,2488.95,B2C
+P1006,Straight Cut,Jeans,4151.88,B2B
+P1007,Caps,Accessories,977.64,B2C
+P1008,Leather Jacket,Jackets,3263.06,B2B
+P1009,Maxi Dress,Dresses,4733.41,B2C
+P1010,Straight Cut,Jeans,2642.73,B2B
+P1011,Graphic Tee,T-Shirts,2629.78,B2B
+P1012,Slip-ons,Shoes,2891,B2B
+P1013,Oversized T-shirt,T-Shirts,3681.08,B2B
+P1014,Sneakers,Shoes,4487.5,B2B
+P1015,Leather Jacket,Jackets,2429.63,B2B
+P1016,Casual Midi,Dresses,2144.36,B2C
+P1017,Boots,Shoes,4638.02,B2B
+P1018,Ripped Denim,Jeans,1313.35,B2C
+P1019,Ripped Denim,Jeans,2494.15,B2C
+P1020,Straight Cut,Jeans,470.68,B2C
+P1021,Straight Cut,Jeans,3500.98,B2B
+P1022,Sneakers,Shoes,2710.15,B2B
+P1023,Loafers,Shoes,4113.98,B2B
+P1024,Boots,Shoes,1536.53,B2C
+P1025,Casual Midi,Dresses,570.21,B2B
+P1026,Watches,Accessories,1650.01,B2C
+P1027,Sneakers,Shoes,4858.47,B2B
+P1028,Slip-ons,Shoes,1507.6,B2C
+P1029,Leather Jacket,Jackets,1765.76,B2B
+P1030,Bomber Jacket,Jackets,3835.25,B2B
+P1031,Wrap Dress,Dresses,1572.95,B2C
+P1032,Maxi Dress,Dresses,3205.93,B2C
+P1033,Sunglasses,Accessories,2497.52,B2C
+P1034,Casual Midi,Dresses,2062.9,B2C
+P1035,Sunglasses,Accessories,2584.43,B2B
+P1036,Maxi Dress,Dresses,4084.97,B2C
+P1037,Graphic Tee,T-Shirts,3205.73,B2B
+P1038,Boots,Shoes,2053.65,B2B
+P1039,Oversized T-shirt,T-Shirts,4747.16,B2B
+P1040,Puffer Coat,Jackets,919.26,B2C
+P1041,Bodycon,Dresses,2617.66,B2B
+P1042,Bodycon,Dresses,3750.45,B2C
+P1043,Classic Tee,T-Shirts,3453.58,B2C
+P1044,Crop Top,T-Shirts,1171.57,B2B
+P1045,Belts,Accessories,1759.66,B2C
+P1046,Puffer Coat,Jackets,3922.01,B2B
+P1047,Watches,Accessories,2880.85,B2B
+P1048,Boyfriend Jeans,Jeans,4016.78,B2B
+P1049,Slip-ons,Shoes,673.96,B2B
+P1050,Loafers,Shoes,3211,B2C
+P1051,Oversized T-shirt,T-Shirts,4744.86,B2B
+P1052,Sunglasses,Accessories,2705.09,B2C
+P1053,Maxi Dress,Dresses,1695.61,B2C
+P1054,Belts,Accessories,3345.45,B2B
+P1055,Boyfriend Jeans,Jeans,2267.3,B2B
+P1056,Slim Fit Jeans,Jeans,4101.89,B2B
+P1057,Wrap Dress,Dresses,3654.9,B2B
+P1058,Ripped Denim,Jeans,1787.52,B2B
+P1059,Classic Tee,T-Shirts,3997.83,B2B
+P1060,Sunglasses,Accessories,1318.04,B2C
+P1061,Oversized T-shirt,T-Shirts,848.45,B2C
+P1062,Boots,Shoes,1137.77,B2C
+P1063,Casual Midi,Dresses,431.31,B2C
+P1064,Oversized T-shirt,T-Shirts,3180.69,B2B
+P1065,Sunglasses,Accessories,1136.41,B2C
+P1066,Crop Top,T-Shirts,3177.78,B2C
+P1067,Straight Cut,Jeans,1290.42,B2C
+P1068,Wrap Dress,Dresses,1722.34,B2C
+P1069,Slip-ons,Shoes,2948.36,B2B
+P1070,Graphic Tee,T-Shirts,4949.17,B2B
+P1071,Sunglasses,Accessories,1873.39,B2C
+P1072,Slip-ons,Shoes,4312.55,B2C
+P1073,Casual Midi,Dresses,4971.93,B2C
+P1074,Slip-ons,Shoes,873.64,B2B
+P1075,Caps,Accessories,4617.85,B2C
+P1076,Puffer Coat,Jackets,478.6,B2B
+P1077,Sneakers,Shoes,1501.49,B2C
+P1078,Oversized T-shirt,T-Shirts,2563.24,B2B
+P1079,Classic Tee,T-Shirts,2839.98,B2B
+P1080,Belts,Accessories,1573.64,B2C
+P1081,Watches,Accessories,2316.64,B2B
+P1082,Crop Top,T-Shirts,692.46,B2B
+P1083,Leather Jacket,Jackets,3344.74,B2B
+P1084,Slip-ons,Shoes,3153.72,B2C
+P1085,Puffer Coat,Jackets,3033.2,B2C
+P1086,Denim Jacket,Jackets,1091.76,B2B
+P1087,Classic Tee,T-Shirts,1551.41,B2B
+P1088,Wrap Dress,Dresses,4382.86,B2B
+P1089,Sneakers,Shoes,2312.09,B2B
+P1090,Caps,Accessories,3111.65,B2B
+P1091,Caps,Accessories,2996.43,B2B
+P1092,Casual Midi,Dresses,4426.87,B2C
+P1093,Boots,Shoes,4274.01,B2C
+P1094,Classic Tee,T-Shirts,2068.64,B2B
+P1095,Bodycon,Dresses,4103.32,B2B
+P1096,Classic Tee,T-Shirts,839.87,B2B
+P1097,Ripped Denim,Jeans,3026.75,B2C
+P1098,Classic Tee,T-Shirts,3256.86,B2B
+P1099,Bomber Jacket,Jackets,4082.61,B2B
+P1100,Crop Top,T-Shirts,1237.15,B2B
+P1101,Slip-ons,Shoes,948.06,B2C
+P1102,Boyfriend Jeans,Jeans,722.74,B2B
+P1103,Maxi Dress,Dresses,824.59,B2B
+P1104,Slim Fit Jeans,Jeans,1049.27,B2B
+P1105,Graphic Tee,T-Shirts,4264.79,B2C
+P1106,Slip-ons,Shoes,491.77,B2B
+P1107,Wrap Dress,Dresses,3216.9,B2B
+P1108,Wrap Dress,Dresses,3201.09,B2B
+P1109,Straight Cut,Jeans,3742.62,B2B
+P1110,Boyfriend Jeans,Jeans,4938.03,B2B
+P1111,Classic Tee,T-Shirts,2940.45,B2B
+P1112,Boots,Shoes,974.54,B2C
+P1113,Ripped Denim,Jeans,3622.93,B2C
+P1114,Casual Midi,Dresses,855.81,B2C
+P1115,Maxi Dress,Dresses,4887.36,B2C
+P1116,Straight Cut,Jeans,2664.43,B2C
+P1117,Caps,Accessories,4414.97,B2B
+P1118,Maxi Dress,Dresses,850.69,B2B
+P1119,Wrap Dress,Dresses,2116.65,B2C
+P1120,Loafers,Shoes,4723.02,B2C
+P1121,Watches,Accessories,3154.48,B2B
+P1122,Boyfriend Jeans,Jeans,1768.88,B2C
+P1123,Straight Cut,Jeans,4976.81,B2C
+P1124,Bomber Jacket,Jackets,2994.31,B2C
+P1125,Graphic Tee,T-Shirts,1845.75,B2C
+P1126,Slim Fit Jeans,Jeans,2229.77,B2B
+P1127,Sunglasses,Accessories,3618.17,B2B
+P1128,Sunglasses,Accessories,4433.35,B2C
+P1129,Watches,Accessories,1205.98,B2C
+P1130,Puffer Coat,Jackets,4345.79,B2B
+P1131,Bomber Jacket,Jackets,2937.09,B2B
+P1132,Slip-ons,Shoes,4473.84,B2B
+P1133,Slim Fit Jeans,Jeans,2057.88,B2C
+P1134,Classic Tee,T-Shirts,1981.32,B2B
+P1135,Sunglasses,Accessories,3078.92,B2B
+P1136,Casual Midi,Dresses,3998.97,B2C
+P1137,Graphic Tee,T-Shirts,936.76,B2B
+P1138,Classic Tee,T-Shirts,1299.74,B2B
+P1139,Boots,Shoes,3568.45,B2B
+P1140,Belts,Accessories,3611.35,B2B
+P1141,Loafers,Shoes,958.16,B2C
+P1142,Leather Jacket,Jackets,4897.24,B2C
+P1143,Wrap Dress,Dresses,3494.89,B2B
+P1144,Wrap Dress,Dresses,2520.44,B2B
+P1145,Bomber Jacket,Jackets,4883.52,B2B
+P1146,Oversized T-shirt,T-Shirts,781.13,B2C
+P1147,Watches,Accessories,4280.7,B2C
+P1148,Bodycon,Dresses,3221.55,B2C
+P1149,Oversized T-shirt,T-Shirts,1624.28,B2C
+P1150,Leather Jacket,Jackets,4606.85,B2C
+P1151,Crop Top,T-Shirts,1213.25,B2B
+P1152,Maxi Dress,Dresses,552.81,B2B
+P1153,Loafers,Shoes,1039.75,B2B
+P1154,Leather Jacket,Jackets,732.96,B2B
+P1155,Belts,Accessories,878.95,B2B
+P1156,Graphic Tee,T-Shirts,2125.02,B2C
+P1157,Slip-ons,Shoes,4694.31,B2B
+P1158,Sneakers,Shoes,2654.66,B2C
+P1159,Sneakers,Shoes,2068.3,B2B
+P1160,Casual Midi,Dresses,3466.1,B2C
+P1161,Boots,Shoes,3253.51,B2B
+P1162,Watches,Accessories,4585.71,B2C
+P1163,Watches,Accessories,3186.11,B2C
+P1164,Maxi Dress,Dresses,4842.74,B2B
+P1165,Puffer Coat,Jackets,2061.91,B2C
+P1166,Slip-ons,Shoes,4429.95,B2B
+P1167,Leather Jacket,Jackets,3904.86,B2B
+P1168,Casual Midi,Dresses,940.64,B2B
+P1169,Caps,Accessories,3727.53,B2B
+P1170,Straight Cut,Jeans,3121.49,B2C
+P1171,Belts,Accessories,944.36,B2C
+P1172,Classic Tee,T-Shirts,1882.93,B2B
+P1173,Classic Tee,T-Shirts,3349.58,B2B
+P1174,Loafers,Shoes,3965.8,B2C
+P1175,Belts,Accessories,2998.25,B2C
+P1176,Loafers,Shoes,3190.74,B2C
+P1177,Puffer Coat,Jackets,2672.26,B2C
+P1178,Boots,Shoes,4236.45,B2B
+P1179,Sneakers,Shoes,4089.68,B2C
+P1180,Belts,Accessories,4409.22,B2B
+P1181,Loafers,Shoes,3583.06,B2C
+P1182,Graphic Tee,T-Shirts,3767.69,B2B
+P1183,Caps,Accessories,4643.96,B2C
+P1184,Boyfriend Jeans,Jeans,4405.96,B2B
+P1185,Sneakers,Shoes,4347.43,B2C
+P1186,Denim Jacket,Jackets,1316.9,B2B
+P1187,Belts,Accessories,2124.13,B2B
+P1188,Watches,Accessories,4090.34,B2C
+P1189,Oversized T-shirt,T-Shirts,2590.44,B2B
+P1190,Denim Jacket,Jackets,4452.04,B2C
+P1191,Boyfriend Jeans,Jeans,4536.09,B2B
+P1192,Leather Jacket,Jackets,3896.07,B2C
+P1193,Belts,Accessories,3944.46,B2B
+P1194,Leather Jacket,Jackets,3108.69,B2B
+P1195,Leather Jacket,Jackets,4878.81,B2C
+P1196,Boots,Shoes,2537.59,B2B
+P1197,Casual Midi,Dresses,2140.22,B2C
+P1198,Bodycon,Dresses,2912.6,B2B
+P1199,Loafers,Shoes,1804.56,B2B
+P1200,Crop Top,T-Shirts,4480.24,B2C
